@@ -9,9 +9,13 @@ framework but it is pretty straightforward, and turned out to be very easy to us
 I created a single lambda function for every endpoint. Which are:
 
 POST - https://5o089j87la.execute-api.us-east-1.amazonaws.com/dev/devices
+
 GET - https://5o089j87la.execute-api.us-east-1.amazonaws.com/dev/devices/{id}
+
 PUT - https://5o089j87la.execute-api.us-east-1.amazonaws.com/dev/devices
+
 DELETE - https://5o089j87la.execute-api.us-east-1.amazonaws.com/dev/devices/{id}
+
 GET - https://5o089j87la.execute-api.us-east-1.amazonaws.com/dev/devices
 
 
